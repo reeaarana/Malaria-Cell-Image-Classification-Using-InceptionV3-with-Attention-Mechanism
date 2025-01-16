@@ -13,4 +13,5 @@ Incorporation of Gaussian Noise and Dropout layers for regularization.
 Transfer learning with pre-trained InceptionV3 layers to boost accuracy on small datasets.
 Visualization of training progress through loss and accuracy graphs.
 
-![image](https://github.com/user-attachments/assets/bb824b34-2150-4ac5-b021-1b90a1dbc6c3)
+![image](https://github.com/user-attachments/assets/bb824b34-2150-4ac5-b021-1b90a1dbc6c3) ![image](https://github.com/user-attachments/assets/93bf555b-8a33-4998-84d5-88a99bca9b25)
+
